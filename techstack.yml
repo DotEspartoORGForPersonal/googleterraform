@@ -1,7 +1,7 @@
 repo_name: DotEspartoORGForPersonal/googleterraform
-report_id: 32d2ca1c95aede35acb59f00f4a61bed
+report_id: b0c57ec6237c5dc02ee68fd1cb3181e2
 repo_type: Public
-timestamp: '2023-11-08T11:51:07+00:00'
+timestamp: '2023-11-08T16:15:00+00:00'
 requested_by: sergeylanzman
 provider: github
 branch: master
@@ -312,14 +312,12 @@ tools:
   description: A toolkit with common assertions and mocks that plays nicely with the
     standard library
   website_url: https://github.com/stretchr/testify
-  version: 1.2.2
   license: MIT
   open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
-  detection_source_url: go.sum
   detection_source: go.mod
 - name: ZyXel
   description: Your Networking Ally
