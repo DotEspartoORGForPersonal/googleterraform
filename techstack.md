@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 DotEspartoORGForPersonal/googleterraform is built on the following main stack:
+
 - [Linode](https://www.linode.com) – Cloud Hosting
 - [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
 - [Golang](http://golang.org/) – Languages
@@ -59,11 +60,13 @@ DotEspartoORGForPersonal/googleterraform is built on the following main stack:
 - [Juniper GraphQL](https://crates.io/crates/juniper) – GraphQL Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 DotEspartoORGForPersonal/googleterraform is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/24/631d437cd8e04903f69766a85d8a5540.png' alt='Linode'/> [Linode](https://www.linode.com) – Cloud Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg' alt='DigitalOcean'/> [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
@@ -121,14 +124,15 @@ DotEspartoORGForPersonal/googleterraform is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/21838/default_f77f1e94d558e229a982490ddb0fc39a81ea2e84.png' alt='Juniper GraphQL'/> [Juniper GraphQL](https://crates.io/crates/juniper) – GraphQL Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/googleterraform](https://github.com/DotEspartoORGForPersonal/googleterraform)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|136<br/>Tools used|11/24/23 <br/>Report generated|
+|136<br/>Tools used|12/01/23 <br/>Report generated|
 |------|------|
 </div>
 
