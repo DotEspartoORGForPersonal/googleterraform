@@ -132,7 +132,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/googleterraform](https://github.com/DotEspartoORGForPersonal/googleterraform)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|136<br/>Tools used|12/01/23 <br/>Report generated|
+|136<br/>Tools used|12/08/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -938,49 +938,49 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[apparmor](https://pkg.go.dev/github.com/opencontainers/runc/libcontainer/apparmor)|v0.9.1|N/A|N/A |Apache-2.0|N/A|
-|[blkiodev](https://pkg.go.dev/github.com/docker/engine-api/types/blkiodev)|v1.0.0|N/A|N/A |Apache-2.0|N/A|
-|[blockstorage/v1/volumes](https://pkg.go.dev/github.com/rackspace/gophercloud/rackspace/blockstorage/v1/volumes)|v0.0.0|N/A|N/A |Other|N/A|
-|[bloom](https://pkg.go.dev/github.com/willf/bloom)|v0.1.0|N/A|N/A |BSD-2-Clause|N/A|
-|[bufs](https://pkg.go.dev/github.com/cznic/bufs)|v0.1.0|N/A|N/A |BSD-3-Clause|N/A|
-|[cast](https://pkg.go.dev/github.com/spf13/cast)|v1.0.0|N/A|N/A |MIT|N/A|
-|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.2|N/A|N/A |Apache-2.0|N/A|
-|[coordinate](https://pkg.go.dev/github.com/hashicorp/serf/coordinate)|v1.10.1|N/A|N/A |MPL-2.0|N/A|
-|[debug](https://pkg.go.dev/github.com/vmware/govmomi/vim25/debug)|N/A|N/A|N/A |Apache-2.0|N/A|
-|[distribution/uuid](https://pkg.go.dev/github.com/docker/distribution/uuid)|v1.1.0|N/A|N/A |Apache-2.0|N/A|
-|[easyjson](https://pkg.go.dev/github.com/mailru/easyjson)|v0.0.0|N/A|N/A |MIT|N/A|
-|[etcdserver/auth](https://pkg.go.dev/github.com/coreos/etcd/etcdserver/auth)|v0.50.2|N/A|N/A |Apache-2.0|N/A|
-|[executor](https://pkg.go.dev/github.com/mesos/mesos-go/executor)|v1.3.2|N/A|N/A |Apache-2.0|N/A|
-|[federation](https://pkg.go.dev/k8s.io/kubernetes/federation/apis/federation)|v9.19.0|N/A|N/A |Apache-2.0|N/A|
-|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.0.1|N/A|N/A |BSD-3-Clause|N/A|
-|[go-ini](https://pkg.go.dev/github.com/vaughan0/go-ini)|v0.0.0|N/A|N/A |MIT|N/A|
-|[go-openapi/errors](https://pkg.go.dev/github.com/go-openapi/errors)|v0.19.2|N/A|N/A |Apache-2.0|N/A|
-|[go/internal](https://pkg.go.dev/cloud.google.com/go/internal)|v0.5.1|N/A|N/A |Apache-2.0|N/A|
-|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v0.0.0|N/A|N/A |MIT|N/A|
-|[gorp.v1](https://pkg.go.dev/gopkg.in/gorp.v1)|N/A|N/A|N/A |N/A|N/A|
-|[govalidator](https://pkg.go.dev/github.com/asaskevich/govalidator)|v0.0.0|N/A|N/A |MIT|N/A|
-|[http/mux](https://pkg.go.dev/github.com/google/cadvisor/http/mux)|v1.0.0|N/A|N/A |Other|N/A|
-|[influxdb/models](https://pkg.go.dev/github.com/influxdb/influxdb/models)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[jlexer](https://pkg.go.dev/github.com/mailru/easyjson/jlexer)|v0.0.0|N/A|N/A |MIT|N/A|
-|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.5|N/A|N/A |BSD-3-Clause|N/A|
-|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkg/ioutils](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils)|v0.5.0|N/A|N/A |BSD-2-Clause|N/A|
-|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[registry/service](https://pkg.go.dev/k8s.io/kubernetes/pkg/registry/service)|v1.1.0|N/A|N/A |Apache-2.0|N/A|
-|[snappb](https://pkg.go.dev/github.com/coreos/etcd/snap/snappb)|v0.13.6|N/A|N/A |Apache-2.0|N/A|
-|[strfmt](https://pkg.go.dev/github.com/go-openapi/strfmt)|v0.19.4|N/A|N/A |Apache-2.0|N/A|
-|[swag](https://pkg.go.dev/github.com/go-openapi/swag)|v0.19.5|N/A|N/A |Apache-2.0|N/A|
-|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|N/A|N/A |MIT|N/A|
-|[sysinfo](https://pkg.go.dev/github.com/google/cadvisor/utils/sysinfo)|v0.0.0|N/A|N/A |Other|N/A|
-|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.0.0|N/A|N/A |MIT|N/A|
-|[traditionalchinese](https://pkg.go.dev/golang.org/x/text/encoding/traditionalchinese)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[typed/discovery](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/typed/discovery)|v0.16.0|N/A|N/A |Apache-2.0|N/A|
-|[universal-translator](https://pkg.go.dev/github.com/go-playground/universal-translator)|v1.1.2|N/A|N/A |MIT|N/A|
-|[utils/tail](https://pkg.go.dev/github.com/google/cadvisor/utils/tail)|v0.12.1|N/A|N/A |Other|N/A|
-|[v2http](https://pkg.go.dev/github.com/coreos/etcd/etcdserver/api/v2http)|v2.6.0|N/A|N/A |Apache-2.0|N/A|
-|[xmlutil](https://pkg.go.dev/github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[yaml.v1](https://pkg.go.dev/gopkg.in/yaml.v1)|v0.9.0|N/A|N/A |N/A|N/A|
+|[apparmor](https://pkg.go.dev/github.com/opencontainers/runc/libcontainer/apparmor)|v0.9.1|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[blkiodev](https://pkg.go.dev/github.com/docker/engine-api/types/blkiodev)|v1.0.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[blockstorage/v1/volumes](https://pkg.go.dev/github.com/rackspace/gophercloud/rackspace/blockstorage/v1/volumes)|v0.0.0|04/02/23|dependabot[bot] |Other|N/A|
+|[bloom](https://pkg.go.dev/github.com/willf/bloom)|v0.1.0|04/02/23|dependabot[bot] |BSD-2-Clause|N/A|
+|[bufs](https://pkg.go.dev/github.com/cznic/bufs)|v0.1.0|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[cast](https://pkg.go.dev/github.com/spf13/cast)|v1.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.2|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[coordinate](https://pkg.go.dev/github.com/hashicorp/serf/coordinate)|v1.10.1|04/02/23|dependabot[bot] |MPL-2.0|N/A|
+|[debug](https://pkg.go.dev/github.com/vmware/govmomi/vim25/debug)|N/A|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[distribution/uuid](https://pkg.go.dev/github.com/docker/distribution/uuid)|v1.1.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[easyjson](https://pkg.go.dev/github.com/mailru/easyjson)|v0.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[etcdserver/auth](https://pkg.go.dev/github.com/coreos/etcd/etcdserver/auth)|v0.50.2|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[executor](https://pkg.go.dev/github.com/mesos/mesos-go/executor)|v1.3.2|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[federation](https://pkg.go.dev/k8s.io/kubernetes/federation/apis/federation)|v9.19.0|11/19/22|Rui Chen |Apache-2.0|N/A|
+|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.0.1|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[go-ini](https://pkg.go.dev/github.com/vaughan0/go-ini)|v0.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[go-openapi/errors](https://pkg.go.dev/github.com/go-openapi/errors)|v0.19.2|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[go/internal](https://pkg.go.dev/cloud.google.com/go/internal)|v0.5.1|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v0.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[gorp.v1](https://pkg.go.dev/gopkg.in/gorp.v1)|N/A|04/02/23|dependabot[bot] |N/A|N/A|
+|[govalidator](https://pkg.go.dev/github.com/asaskevich/govalidator)|v0.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[http/mux](https://pkg.go.dev/github.com/google/cadvisor/http/mux)|v1.0.0|04/02/23|dependabot[bot] |Other|N/A|
+|[influxdb/models](https://pkg.go.dev/github.com/influxdb/influxdb/models)|v0.0.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[jlexer](https://pkg.go.dev/github.com/mailru/easyjson/jlexer)|v0.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.5|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[pkg/ioutils](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils)|v0.5.0|04/02/23|dependabot[bot] |BSD-2-Clause|N/A|
+|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v0.0.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[registry/service](https://pkg.go.dev/k8s.io/kubernetes/pkg/registry/service)|v1.1.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[snappb](https://pkg.go.dev/github.com/coreos/etcd/snap/snappb)|v0.13.6|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[strfmt](https://pkg.go.dev/github.com/go-openapi/strfmt)|v0.19.4|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[swag](https://pkg.go.dev/github.com/go-openapi/swag)|v0.19.5|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[sysinfo](https://pkg.go.dev/github.com/google/cadvisor/utils/sysinfo)|v0.0.0|04/02/23|dependabot[bot] |Other|N/A|
+|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.0.0|04/02/23|dependabot[bot] |MIT|N/A|
+|[traditionalchinese](https://pkg.go.dev/golang.org/x/text/encoding/traditionalchinese)|v0.0.0|04/02/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[typed/discovery](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/typed/discovery)|v0.16.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[universal-translator](https://pkg.go.dev/github.com/go-playground/universal-translator)|v1.1.2|04/02/23|dependabot[bot] |MIT|N/A|
+|[utils/tail](https://pkg.go.dev/github.com/google/cadvisor/utils/tail)|v0.12.1|04/02/23|dependabot[bot] |Other|N/A|
+|[v2http](https://pkg.go.dev/github.com/coreos/etcd/etcdserver/api/v2http)|v2.6.0|11/19/22|Rui Chen |Apache-2.0|N/A|
+|[xmlutil](https://pkg.go.dev/github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil)|v0.0.0|04/02/23|dependabot[bot] |Apache-2.0|N/A|
+|[yaml.v1](https://pkg.go.dev/gopkg.in/yaml.v1)|v0.9.0|04/02/23|dependabot[bot] |N/A|N/A|
 
 <br/>
 <div align='center'>
