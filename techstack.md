@@ -132,7 +132,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/googleterraform](https://github.com/DotEspartoORGForPersonal/googleterraform)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|136<br/>Tools used|12/11/23 <br/>Report generated|
+|136<br/>Tools used|12/15/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -378,7 +378,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://github.com/stretchr/testify">Testify</a></sub>
   <br>
-  <sub></sub>
+  <sub>v1.2.2</sub>
 </td>
 
 <td align='center'>
