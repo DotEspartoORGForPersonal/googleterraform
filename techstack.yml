@@ -1,7 +1,7 @@
 repo_name: DotEspartoORGForPersonal/googleterraform
-report_id: b6520d1c6527ee277f0422d630b1e2aa
+report_id: '0292079b30c6a22a2c6414b8882bc2a9'
 repo_type: Public
-timestamp: '2023-12-11T15:21:38+00:00'
+timestamp: '2023-12-15T10:46:54+00:00'
 requested_by: sergeylanzman
 provider: github
 branch: master
@@ -28,7 +28,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/21481/default_605082dfd241c1bfe286cd8371a8f55490407a3d.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -52,7 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/21706/default_6a51c95d7fc40f85a19dfda8ad9f5ed5834173f9.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -66,7 +66,7 @@ tools:
   category: Data Stores
   sub_category: Workflow Manager
   image_url: https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -79,7 +79,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/21191/default_1d21287b1234e1c633629cd5f671afd79b33b571.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -92,7 +92,7 @@ tools:
   category: Data Stores
   sub_category: Big Data as a Service
   image_url: https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -106,7 +106,7 @@ tools:
   category: Data Stores
   sub_category: Big Data as a Service
   image_url: https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -119,7 +119,7 @@ tools:
   category: Languages & Frameworks
   sub_category: GraphQL Tools
   image_url: https://img.stackshare.io/service/21838/default_f77f1e94d558e229a982490ddb0fc39a81ea2e84.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -132,7 +132,7 @@ tools:
   category: Data Stores
   sub_category: Blockchain
   image_url: https://img.stackshare.io/service/21153/default_e7ffd9513374109d00c62e9730418f78ee0a8e91.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -145,7 +145,7 @@ tools:
   category: Data Stores
   sub_category: API Tools
   image_url: https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -158,7 +158,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/21160/default_9094bb298a86309d672cca966f3a273695205d38.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -171,7 +171,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/21198/default_18ca3e5076366a76c68a92fe59258b3b335cdae1.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -184,7 +184,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: skarimo
   last_updated_on: 2023-04-02 14:45:59.000000000 Z
@@ -197,7 +197,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/21178/default_02ec6aefae7b6f0cba6fd7906dbd1ecde5dc335d.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -210,7 +210,7 @@ tools:
   category: Monitoring
   sub_category: Website Monitoring
   image_url: https://img.stackshare.io/service/21226/default_bca366978a34411f6b8f9a835b75c3b6c1ddf00a.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -224,7 +224,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/21618/default_263f520e84b3c6019908a8434d449c889855068c.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -258,7 +258,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/21565/default_258e75a728a9d33026faaeb140b10c248c7c76ad.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -271,7 +271,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/21325/default_a974b9caeb1abd4a10727449be293f26419589f6.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -285,7 +285,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/21152/default_be7d0621c1cb8392534d70dac8830cce7a486fd0.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -299,7 +299,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/21154/default_5b7922a99e2d777cabf7d8a9b4ba9ff0627eae82.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -312,7 +312,7 @@ tools:
   category: Monitoring
   sub_category: Network Monitoring
   image_url: https://img.stackshare.io/service/21600/default_bde8c47cdefadcae79aaeceedca30c1c4ee4fc98.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -325,7 +325,7 @@ tools:
   category: Monitoring
   sub_category: Network Monitoring
   image_url: https://img.stackshare.io/service/21358/default_8c3aa81460935ebdae05c8c9783dffe0acc1278c.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -339,7 +339,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -354,7 +354,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: Orosz Dávid
   last_updated_on: 2022-10-25 23:14:29.000000000 Z
@@ -362,15 +362,17 @@ tools:
   description: A toolkit with common assertions and mocks that plays nicely with the
     standard library
   website_url: https://github.com/stretchr/testify
+  version: 1.2.2
   license: MIT
   open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
-  last_updated_by: Jason Harley
-  last_updated_on: 2022-09-06 23:23:59.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-04-02 14:48:41.000000000 Z
 - name: ZyXel
   description: Your Networking Ally
   website_url: https://www.zyxel.com/us/en/
@@ -380,7 +382,7 @@ tools:
   category: Monitoring
   sub_category: Networking Hardware
   image_url: https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: skarimo
   last_updated_on: 2023-04-02 14:45:59.000000000 Z
@@ -416,7 +418,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Game Development
   image_url: https://img.stackshare.io/service/21759/default_5c53af6aae91062d807462815c519a7745aabf4d.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -430,7 +432,7 @@ tools:
   category: Analytics
   sub_category: A/B Testing Analytics
   image_url: https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: skarimo
   last_updated_on: 2023-04-02 14:45:59.000000000 Z
@@ -465,7 +467,7 @@ tools:
   category: Analytics
   sub_category: General Analytics
   image_url: https://img.stackshare.io/service/21298/default_3e94918409fb0890c50a99024c2b47b1df7577e3.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -479,7 +481,7 @@ tools:
   category: Analytics
   sub_category: Heatmap Analytics
   image_url: https://img.stackshare.io/service/21784/default_4868b22639885f7e5ae55e012952ca11acc0da00.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -492,7 +494,7 @@ tools:
   category: Application Utilities
   sub_category: Customer Information API
   image_url: https://img.stackshare.io/service/21140/default_8a94513f1340db48c564130fc609b4ce3d010a76.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -505,7 +507,7 @@ tools:
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
   image_url: https://img.stackshare.io/service/21546/default_9d8d550cb66354aaa97db11bda2dadc569edb8ec.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -519,7 +521,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Feedback Widget
   image_url: https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: skarimo
   last_updated_on: 2023-04-02 14:45:59.000000000 Z
@@ -529,7 +531,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21203/default_e83656254ceca8a19a90cf2e6b31c38ba31a23bb.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -553,7 +555,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Property Management
   image_url: https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -564,7 +566,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21845/default_68651d778c8418423d985b3864a908913648b92c.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -574,7 +576,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21737/default_4315d5471752ca1edfed1da3b3623ae92984a393.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -586,7 +588,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21515/default_cfc0208804501b8707b88ace09c8e13d0bac09b9.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -599,7 +601,7 @@ tools:
   category: Collaboration
   sub_category: Activity Feeds as a Service
   image_url: https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -611,7 +613,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21511/default_119efefe9e6a293676144d0d3d50a0d5e416659f.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -625,7 +627,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/21300/default_a169b2bfb5d5868361ec02044e5a39e1896c433d.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -639,7 +641,7 @@ tools:
   category: Application Utilities
   sub_category: Healthcare
   image_url: https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -650,7 +652,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21119/default_7d7cdfe126e00b141809117af1af8ba177913dc4.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: skarimo
   last_updated_on: 2023-04-02 14:45:59.000000000 Z
@@ -661,7 +663,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21626/default_c0fde59b2b87032b98232418403c06ab20941ac3.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -674,7 +676,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: CRM
   image_url: https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -687,7 +689,7 @@ tools:
   category: Back Office
   sub_category: Accounting
   image_url: https://img.stackshare.io/service/21601/default_9e3ad30996dd9561abe373f7d6ad50535688c245.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -698,7 +700,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21175/default_a853bc7554ea7e6571247fcdc804a35c8b6810cf.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -710,7 +712,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21953/default_aa477e8a0f3c0a9ed9e7d2b1993d6de77f4c7b60.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -723,7 +725,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/21136/default_8b5bd108e202fe0a7dda1dd539928142a045abb3.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -737,7 +739,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/21270/default_0084eb995a5780183a4b75eec1dfb1e4a7b606a7.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -750,7 +752,7 @@ tools:
   category: Design
   sub_category: Graphic Design
   image_url: https://img.stackshare.io/service/21319/default_5b524a13b50d545f281f91ae8135508b36ce90be.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -760,7 +762,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21159/default_15d84d743a05c34a32cfd8708e7ef1266d0c4b77.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -773,7 +775,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Insurance Solutions
   image_url: https://img.stackshare.io/service/21291/default_6e99badba8284e715499fcb030bbbcf8a76c18e5.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -784,7 +786,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21161/default_8b04c9d4f8310a7ae636d0b92fdd9fd925afe181.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -794,7 +796,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21494/default_3f2fb1a0e4bcafa3dbf9f0673ee8f6980537027b.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -807,7 +809,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Customer Profiles
   image_url: https://img.stackshare.io/service/21315/default_499399dc690af0e91d379644dec00880e20c6f5a.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -826,7 +828,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21651/default_9a3d2b24ff68521a199b799149b8c1415f5be9fc.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -839,7 +841,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Call Center Management
   image_url: https://img.stackshare.io/service/21302/default_5bbd7ccec3ff0e66da434030f9170680819b14d1.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -852,7 +854,7 @@ tools:
   category: Languages & Frameworks
   sub_category: UI Components
   image_url: https://img.stackshare.io/service/21715/default_77970264a43ca524fd33000c86e14bad631bfee9.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -863,7 +865,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21931/default_4ca7826f0adcaa1d0edab80159dce2b16e06c99c.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: anilkumarnagaraj
   last_updated_on: 2022-09-13 06:24:07.000000000 Z
@@ -876,7 +878,7 @@ tools:
   category: Back Office
   sub_category: Accounting
   image_url: https://img.stackshare.io/service/21288/default_c7533b08b125c80abcc5a1f8d76cd7aed9b8f4f8.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -889,7 +891,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Customer Community
   image_url: https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: anilkumarnagaraj
   last_updated_on: 2022-09-13 06:24:07.000000000 Z
@@ -899,7 +901,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21246/default_ea396f63a8974b2c19460a4ea524ea4c3a3a110f.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -909,7 +911,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21121/default_682895d4f0a2777cec582ef7c7f20fd167c1ce11.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: skarimo
   last_updated_on: 2023-04-02 14:45:59.000000000 Z
@@ -920,7 +922,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21946/default_9b94129044330ec33db4e43dfa01b28f777af349.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -930,7 +932,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21239/default_5277afd140902086406cc82f583ad1bd8a16c669.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -941,7 +943,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21471/default_e6a21c3094795c651f23af890e15de225b38ebb2.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -952,7 +954,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21841/default_b5a2e282bf6a607a5275246db8d4b596cc0b794e.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -965,7 +967,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -975,7 +977,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21236/default_008901e4d911416904b19f19ac60389a7cfe5dca.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -985,7 +987,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21125/default_a37b436cb360d7db5c0521e74ebeb8e50f8ffc58.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: skarimo
   last_updated_on: 2023-04-02 14:45:59.000000000 Z
@@ -995,7 +997,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21132/default_742c3d430f39b43d45c52805a75a9334d7d97a18.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1007,7 +1009,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21455/default_6366c10fc3fa933a3de9c1ed1f3c97eab9c2f7b7.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1019,7 +1021,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21180/default_ea71b530d72efa192bf97c176bd3823d8911a9d8.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1039,7 +1041,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21151/default_694421a607ee3b50a4add2e20d781a7ad15ab0b4.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1058,7 +1060,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/22007/default_6156425c0f865da72cc663ac48c25da8545c40ab.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1068,7 +1070,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21240/default_f752ec7f084669cc7a76c7c2a6ec3c8580de2c8a.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: anilkumarnagaraj
   last_updated_on: 2022-09-13 06:24:07.000000000 Z
@@ -1078,7 +1080,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/22004/default_50abed759307f52ce2c594a4b0d1deb1999a4b99.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1090,7 +1092,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21170/default_f061e6941a00ef2eeb5954eb77a48b7f6626fd91.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1101,7 +1103,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21131/default_9b9bb8bfc9ef61de5963a2296071237110f1274f.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1111,7 +1113,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21299/default_dfaa844bc9d766062d69a3c9c554c19a33025452.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1121,7 +1123,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21201/default_80012ffc0fdda5946338789250eab4bd462bfa97.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1135,7 +1137,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1149,7 +1151,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1163,7 +1165,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1177,7 +1179,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1191,7 +1193,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1205,7 +1207,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1219,7 +1221,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1233,7 +1235,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1259,7 +1261,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1273,7 +1275,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1288,7 +1290,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1302,7 +1304,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1316,7 +1318,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: Rui Chen
   last_updated_on: 2022-11-19 13:54:25.000000000 Z
@@ -1330,7 +1332,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1344,7 +1346,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1358,7 +1360,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1372,7 +1374,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1386,7 +1388,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1412,7 +1414,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1427,7 +1429,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1441,7 +1443,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1455,7 +1457,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1470,7 +1472,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1484,7 +1486,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1498,7 +1500,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1512,7 +1514,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1526,7 +1528,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1540,7 +1542,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1555,7 +1557,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1569,7 +1571,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1583,7 +1585,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1598,7 +1600,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1613,7 +1615,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1628,7 +1630,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1642,7 +1644,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1656,7 +1658,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1671,7 +1673,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1686,7 +1688,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1701,7 +1703,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: Rui Chen
   last_updated_on: 2022-11-19 13:54:25.000000000 Z
@@ -1715,7 +1717,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1728,7 +1730,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
