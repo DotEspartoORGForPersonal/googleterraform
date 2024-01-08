@@ -1,8 +1,8 @@
 repo_name: DotEspartoORGForPersonal/googleterraform
-report_id: d1f2205c102c2d9d2d2742195c909358
+report_id: 23e50d1a076342bd162a23c2e779ba98
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-26T15:37:08+00:00'
+timestamp: '2024-01-08T15:18:14+00:00'
 requested_by: sergeylanzman
 provider: github
 branch: master
@@ -18,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform
   detection_source: Repo Metadata
 - name: Lucia
   description: 3kB Vue Alternative
@@ -41,6 +42,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Tim
   last_updated_on: 2022-09-07 07:01:03.000000000 Z
@@ -237,6 +239,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -246,6 +249,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/.github/workflows/linter.yml
   detection_source: ".github/workflows/linter.yml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-03-17 09:49:12.000000000 Z
@@ -396,6 +400,7 @@ tools:
   category: Application Hosting
   sub_category: Cloud Hosting
   image_url: https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-09-06 18:57:35.000000000 Z
@@ -407,6 +412,7 @@ tools:
   category: Application Hosting
   sub_category: Cloud Hosting
   image_url: https://img.stackshare.io/service/24/631d437cd8e04903f69766a85d8a5540.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/docs/linode.md
   detection_source: docs/linode.md
   last_updated_by: Mohamed chiheb Ben jemaa
   last_updated_on: 2021-04-07 10:36:34.000000000 Z
@@ -445,6 +451,7 @@ tools:
   category: Application Utilities
   sub_category: Security
   image_url: https://img.stackshare.io/service/21478/default_3cef966220f10bc91aec6eff2f99cb1982dce25f.jpg
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -456,6 +463,7 @@ tools:
   category: Application Utilities
   sub_category: Identity Verification as a Service
   image_url: https://img.stackshare.io/service/21558/default_44cf04260e415c9c264c0736be65f267677c3097.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -543,6 +551,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21257/default_c271f7f4b2adddcc1577913f071e2b8db24ca457.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -820,6 +829,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21534/default_60d1532dc4af1183e4cbd4e4bd7ed01098499fb5.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1033,6 +1043,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/21181/default_763a92dc273711ab7815fc1b6170f00095f46536.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1052,6 +1063,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/build/main.go
   detection_source: build/main.go
   last_updated_by: Sergey Lanzman
   last_updated_on: 2019-10-17 16:04:01.000000000 Z
@@ -1249,6 +1261,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
@@ -1402,6 +1415,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/googleterraform/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-02 14:48:41.000000000 Z
